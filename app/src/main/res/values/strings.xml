@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">AswanApp</string>
+    <string name="tab_Title_1">Hotels</string>
+    <string name="tab_Title_2">Restaurants</string>
+    <string name="tab_Title_3">Touristic_Places</string>
+    <string name="tab_Title_4">Nubian_Words</string>
+
+    <string name="sofitil">Sofitel Legend Old Cataract Aswan Hotel</string>
+    <string name="Mouvinpic">Movenpick Resort Aswan Hotel</string>
+    <string name="pyramisia">Pyramisa Isis Island Resort and Spa Hotel</string>
+    <string name="phila">Philae Hotel</string>
+    <string name="basma">Basma Hotel</string>
+    <string name="isis">Pyramisa Isis Corniche Hotel</string>
+    <string name="marhaba">Marhaba Palace Hotel</string>
+    <string name="sofitilData">Price:EGP 5,859</string>
+    <string name="MouvinpicData">Price:EGP 1,816</string>
+    <string name="pyramisiaData">Price:EGP 1,246</string>
+    <string name="philaData">Price:EGP 985</string>
+    <string name="basmaData">Price:EGP 931</string>
+    <string name="isisData">Price:EGP 849</string>
+    <string name="marhabaData">Price:EGP 592</string>
+    <string name="nileData">Price:EGP 627</string>
+
+    <string name="dokka">El_Dokka Restaurant</string>
+    <string name="masry">El_Masry Restaurant</string>
+    <string name="panorama">Panorama Restaurant</string>
+    <string name="terrace">The Terrace Restaurant</string>
+    <string name="porto">Porto Sono Restaurant</string>
+    <string name="nubian">Nubian Restaurant</string>
+    <string name="salah">Salah El_Din Restaurant</string>
+
+    <string name="dokkaData">Address:Aswan,Phone:+20 122 216 2379</string>
+    <string name="masryData">address:AirPort Street,DownTown,Aswan,Phone:0972302576</string>
+    <string name="panoramaData">Corniche El Nil Street, El Corniche, Aswan,Phone:+20 97 2306169</string>
+    <string name="terraceData">Sofitel Legend Old Cataract Aswan,Phone: +20 97 2316000</string>
+    <string name="portoData">New Corniche, Near Al Mawqaf Al Eqlimy</string>
+    <string name="nubianData">Issa Island,Aswan ,Phone: +2-09-79-10-8000</string>
+    <string name="salahData">Kurnich El Nil Street,Aswan,Phone: 0972332093</string>
+
+    <string name="masallaName">The missing obelisk in Aswan</string>
+    <string name="theNubiaName">The Nubian Museume</string>
+    <string name="elphentineName">El Phantine Island</string>
+    <string name="plantislandName">The Plants Island</string>
+    <string name="philaTempleName">Temple Of Philae</string>
+    <string name="egilicaName">Island Of Agelica</string>
+    <string name="talbyaName">Mosque Of Talbiya</string>
+    <string name="comomboName">Temple Of ComOmbo</string>
+    <string name="aswanMuseumName">Aswan Museume</string>
+    <string name="highDamName">The High_Dam</string>
+
+    <string name="masalla">The ancient Egyptians had carved this obelisk but did not finish it so it was called by that name. The scholars attributed the missing obelisk to the time of Queen Hatshepsut, where many of the obelisks were built in its time, and the obelisk is one of the most important tourist places in Aswan Egypt.</string>
+    <string name="thenubian">UNESCO has built the Nubia Museum to display the ancient Egyptian monuments and monuments of the Nubians. It includes a large collection of prehistoric and other monuments. The museum also exhibits the Nubian language and Nubian customs and traditions.</string>
+    <string name="elphentineisland">The island of El Fentine is one of the most beautiful tourist places in Aswan. It contains a number of temples including the famous Aswan Temple, inhabited by the Nubians, where there are large areas of green land and they rely on tourism in Aswan Egypt where they perform their artistic and manual works.</string>
+    <string name="theplantsisland">The island of plants is one of the most beautiful tourist places in Aswan. It is an island located in the middle of the Nile, filled with all kinds of rare plants and trees in the world, and due to the importance of the island and its wide fame has been visited by many famous figures such as Queen Elizabeth and Nehru, Prime Minister of India.</string>
+    <string name="templeofphila">The ancient Philistine temple was built to worship the goddess Isis. The temple was built on the island of Philo and was then transported by UNESCO to the island of Ijelica to protect it from the inevitable drowning after the construction of the High Dam.</string>
+    <string name="mosqueTalbya">The mosque is considered one of the oldest mosques in Aswan, attracting large numbers of tourists and activating tourism in Aswan, Egypt. The mosque was designed with some beautiful decoration from inside and outside belonging to the Mamluk era.</string>
+    <string name="comombo">Koum Ombo Temple is located in Kom Ombo, Aswan, where it was built in the Ptolemaic period. It was then attached to some additions in the Roman era. This temple is considered one of the most important tourist places in Aswan Egypt.</string>
+    <string name="aswanmuseum">It is located on the island of Elephantine, and was built to preserve the effects found during the excavation of the High Dam and also includes the effects of the island of Elephantine and some ancient Nubian monuments, and the museum is one of the most important landmarks Aswan Egypt.</string>
+    <string name="highDam">The Upper Aswan Dam or the High Dam is a water dam on the Nile in southern Egypt. It was established during the reign of Gamal Abdel Nasser and assisted the Soviets in its construction. The dam helped greatly control the flow of water and mitigate the effects of the Nile flood.</string>
+
+    <string name="mother">Ein</string>
+    <string name="myMother">Anin</string>
+    <string name="father">Fab</string>
+    <string name="myFather">Abo</string>
+    <string name="brother">Enga</string>
+    <string name="sister">Tanse</string>
+    <string name="grandba">Ano</string>
+    <string name="grandMa">Anao</string>
+    <string name="man">Eid</string>
+    <string name="woman">Edein</string>
+    <string name="black">Orem</string>
+    <string name="white">Nolo</string>
+    <string name="red">Gail</string>
+    <string name="green">Dase</string>
+    <string name="yellow">Ga</string>
+
+    <string name="motherEn">Mother</string>
+    <string name="myMotherEn">My Mother</string>
+    <string name="fatherEn">Father</string>
+    <string name="myFatherEn">My Father</string>
+    <string name="brotherEn">Brother</string>
+    <string name="sisterEn">Sister</string>
+    <string name="grandbaEn">Grand Father</string>
+    <string name="grandMaEn">Grand Mother</string>
+    <string name="manEn">Man</string>
+    <string name="womanEn">Woman</string>
+    <string name="blackEn">Black</string>
+    <string name="whiteEn">White</string>
+    <string name="redEn">Red</string>
+    <string name="greenEn">Green</string>
+    <string name="yellowEn">Yellow</string>
+
+    <string name="tab1">Hotels</string>
+    <string name="tab2">Restaurants</string>
+    <string name="tab3">Touristic_Places</string>
+    <string name="tab4">Nubian_Words</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
